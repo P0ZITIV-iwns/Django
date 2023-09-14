@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c44ab03-9412-42f5-bd17-5865a4bc3898" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../PR5/PR5/accounts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PR5/PR5/accounts/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PR5/PR5/accounts/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PR5/PR5/accounts/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PR5/PR5/accounts/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PR5/PR5/accounts/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PR5/PR5/accounts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PR5/PR5/accounts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PR5/PR5/blog/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PR5/PR5/templates/post_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PR5/PR5/templates/post_edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PR5/PR5/templates/post_new.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PR5/PR5/templates/registration/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PR5/PR5/templates/signup.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR5/PR5/PR5/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PR5/PR5/PR5/asgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR5/PR5/PR5/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PR5/PR5/PR5/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR5/PR5/PR5/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PR5/PR5/PR5/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR5/PR5/PR5/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PR5/PR5/PR5/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR5/PR5/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PR5/PR5/blog/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR5/PR5/blog/apps.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PR5/PR5/blog/apps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR5/PR5/blog/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PR5/PR5/blog/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR5/PR5/blog/migrations/0002_post_email.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PR5/PR5/blog/migrations/0002_post_email.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR5/PR5/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PR5/PR5/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR5/PR5/blog/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PR5/PR5/blog/tests.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR5/PR5/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PR5/PR5/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR5/PR5/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../PR5/PR5/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR5/PR5/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PR5/PR5/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR5/PR5/static/css/base.css" beforeDir="false" afterPath="$PROJECT_DIR$/../PR5/PR5/static/css/base.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR5/PR5/static/css/home.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR5/PR5/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/../PR5/PR5/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR5/PR5/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../PR5/PR5/templates/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR5/PR5/templates/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/../PR5/PR5/templates/post_detail.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2VOUOwO3BEhsYBzTh8Z60inIgPr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c44ab03-9412-42f5-bd17-5865a4bc3898" name="Changes" comment="" />
+      <created>1694706591432</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694706591432</updated>
+    </task>
+    <servers />
+  </component>
+</project>
