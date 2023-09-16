@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8c44ab03-9412-42f5-bd17-5865a4bc3898" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../PR5/PR5/accounts/__init__.py" afterDir="false" />
@@ -16,6 +19,7 @@
       <change afterPath="$PROJECT_DIR$/../PR5/PR5/templates/post_new.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PR5/PR5/templates/registration/login.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../PR5/PR5/templates/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PR5/PR5/PR5/asgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PR5/PR5/PR5/asgi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PR5/PR5/PR5/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PR5/PR5/PR5/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../PR5/PR5/PR5/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../PR5/PR5/PR5/urls.py" afterDir="false" />
@@ -40,24 +44,31 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2VOUOwO3BEhsYBzTh8Z60inIgPr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
