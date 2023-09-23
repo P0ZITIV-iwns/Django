@@ -6,18 +6,24 @@
 </head>
 <body>
     {% extends 'base.html' %}
-
     {% block title %} Home {% endblock %}
 
     {% block content %}
-        {% if user.is_authenticated %}
+<!--        {% if user.is_authenticated %}
             Hi {{ user.username }}!
             <p><a href="{% url 'logout' %}">Logout</a></p>
         {% else %}
             <p>You are not logged in</p>
             <a href="{% url 'login' %}">login</a>
             <a href="{% url 'signup' %}">signup</a>
-        {% endif %}
+        {% endif %}-->
+        <div class="jumbotron">
+            <h1 class="display-4">Newspaper app</h1>
+            <p class="lead">A Newspaper website built with Django.</p>
+            <p class="lead">
+                <a class="btn btn-primary btn-lg" href="{% url 'article_list' %}">View all Articles</a>
+            </p>
+        </div>
     {% endblock %}
 </body>
 </html>
